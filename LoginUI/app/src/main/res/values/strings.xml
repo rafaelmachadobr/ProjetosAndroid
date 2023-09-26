@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">LoginUI</string>
+    <string name="title_app">Tela de Login</string>
+    <string name="tag_line">Desenvolvido por: Rafael Machado</string>
+    <string name="welcome">Bem-vindo</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
 </resources>
