@@ -7,4 +7,5 @@
     <string name="password">Senha</string>
     <string name="login">Login</string>
     <string name="forgot_password">Esqueceu a sua senha?</string>
+    <string name="create_account">Criar Conta</string>
 </resources>
