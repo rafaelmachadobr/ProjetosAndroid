@@ -5,4 +5,6 @@
     <string name="welcome">Bem-vindo</string>
     <string name="email">Email</string>
     <string name="password">Senha</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Esqueceu a sua senha?</string>
 </resources>
